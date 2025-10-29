@@ -1,0 +1,5 @@
+lead_id,channel,device,time_on_site,page_views,income,fico,dti
+N001,affiliate,mobile,120,4,85000,710,0.33
+N002,paid_search,desktop,80,3,68000,670,0.41
+N003,direct,desktop,210,6,98000,740,0.29
+N004,social,mobile,65,2,59000,655,0.44
