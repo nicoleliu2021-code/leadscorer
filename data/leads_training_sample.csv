@@ -1,0 +1,11 @@
+lead_id,channel,device,time_on_site,page_views,income,fico,dti,closed_loan
+L001,affiliate,mobile,180,4,78000,700,0.32,1
+L002,paid_search,desktop,90,3,64000,665,0.43,0
+L003,direct,desktop,240,7,102000,735,0.28,1
+L004,social,mobile,60,2,58000,640,0.46,0
+L005,affiliate,mobile,150,5,92000,710,0.31,1
+L006,paid_search,mobile,70,3,70000,680,0.40,0
+L007,direct,desktop,260,8,115000,760,0.26,1
+L008,affiliate,desktop,110,4,88000,705,0.35,0
+L009,social,mobile,55,2,60000,650,0.45,0
+L010,direct,desktop,300,9,130000,780,0.24,1
